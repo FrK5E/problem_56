@@ -1,0 +1,3 @@
+[submodule "ntl_utils"]
+	path = ntl_utils
+	url = git@github.com:FrK5E/ntl_utils.git
